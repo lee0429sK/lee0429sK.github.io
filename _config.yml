@@ -1,7 +1,7 @@
 title: Jaehyuk lee
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Jaehyuk Lee
-avatar: /logo.png
+avatar: /KakaoTalk_20210511_001014942.jpg
 email: jaykees@khu.ac.kr
 
 plugins:
@@ -29,9 +29,6 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
 logo: KakaoTalk_20210511_001014942.jpg
 skin: daylight.scss
 social:
