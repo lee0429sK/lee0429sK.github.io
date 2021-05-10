@@ -33,7 +33,7 @@ twitter:
   username: ngzhio
   card: summary
 logo: https://github.com/lee0429sK/lee0429sK.github.io/blob/master/KakaoTalk_20210511_001014942.jpg
-skin: solarized
+skin: daylight.scss
 social:
   name: Jaehyuk Lee
   links:
